@@ -46,7 +46,7 @@ oculta: hay información que espera el momento adecuado.
 
 ```bash
 # Opción A — clonar
-git clone https://github.com/trco/sensus-latinus.git
+gh repo clone NigelMoonwriter/sensus_latinus
 
 # Opción B — descargar el HTML directamente
 # → ir al repositorio → click en index.html → Download raw file
