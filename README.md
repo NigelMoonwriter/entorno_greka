@@ -11,10 +11,10 @@ Sin dependencias. Sin servidor. Sin tracking. Doble clic y funciona.
 
 | Repositorio | Lengua / Campo | Entradas | Descripción |
 |---|---|---|---|
-| [sensus-latinus](https://github.com/trco/sensus-latinus) | Latín · Griego clásico | 27 | Etimología PIE, modos Aficionado/Estudiante/Profesor, comparación romance |
-| [sensus-graecus](https://github.com/trco/sensus-graecus) | Griego clásico | 25+ | Filosofía presocrática, clásica y helenística. Logos, physis, polis, mimesis |
-| [sensus-semansis](https://github.com/trco/sensus-semansis) | Griego · IA | 40 | Reflexión sobre creatividad artificial. #ReflejosHíbridos |
-| [sensus-nepantla](https://github.com/trco/sensus-nepantla) | Spanglish | 12 + carteles | Frontera lingüística. Anzaldúa, Freire, biopolítica computacional |
+| [sensus-latinus](https://nigelmoonwriter.github.io/sensus_latinus/) | Latín · Griego clásico | 27 | Etimología PIE, modos Aficionado/Estudiante/Profesor, comparación romance |
+| [sensus-graecus](https://nigelmoonwriter.github.io/sensus_graecus/) | Griego clásico | 25+ | Filosofía presocrática, clásica y helenística. Logos, physis, polis, mimesis |
+| [sensus-sēmannsis](https://nigelmoonwriter.github.io/sensus_semannsis/) | Griego · IA | 40 | Reflexión sobre creatividad artificial. #ReflejosHíbridos |
+| [sensus-nepantla](https://nigelmoonwriter.github.io/sensus_nepantla/) | Spanglish | 12 + carteles | Frontera lingüística. Anzaldúa, Freire, biopolítica computacional |
 
 ---
 
@@ -32,7 +32,7 @@ La forma no es decoración. Cada diccionario tiene una identidad visual
 que corresponde a su ontología:
 - SENSUS LATINUS / GRAECUS → Paula Scher: tipografía como imagen, monocromático,
   diagonales. El póster que es un diccionario.
-- SENSUS SEMANSIS → Negro profundo, términos griegos sobre IA. El espejo sin compasión.
+- SENSUS SEMANNSIS → Negro profundo, términos griegos sobre IA. El espejo sin compasión.
 - SENSUS NEPANTLA → Terracota, neón, caliche. La paleta de la frontera.
   DoNotTryToReadThis.
 
@@ -68,7 +68,7 @@ Lewis & Short, Liddell-Scott-Jones, Perseus Digital Library, Logeion.
 Etimología PIE según Watkins y de Vaan. Filosofía griega desde los
 presocráticos hasta el helenismo.
 
-**SENSUS SEMANSIS**
+**SENSUS SEMANNSIS**
 Filosofía del lenguaje, semiótica, filosofía de la mente.
 La pregunta central: si la creación ya no requiere experiencia,
 ¿qué queda de lo humano en el acto de crear?
@@ -128,7 +128,7 @@ Los derivados deben mantener la misma licencia.
 
 ## Autor
 
-**Rei García / KhaosLiminal**
+**Rei García / KhaosLiminal / Sarayu Aguilar**
 Morelia, Michoacán, México
 Entorno Greka · 2026
 
